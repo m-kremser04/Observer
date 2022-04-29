@@ -48,7 +48,9 @@ int main()
     subj->attach(obs2);
     subj->setData("Beide");
     subj->notify();
+    subj->notify();
 
+    //test for merging
     /*
      Ausgabe:
      Observer A hat neuen Zustand: TestData
