@@ -48,7 +48,7 @@ int main()
     subj->attach(obs2);
     subj->setData("Beide");
     subj->notify();
-    //super Referat inshallah
+
 
     /*
      Ausgabe:
